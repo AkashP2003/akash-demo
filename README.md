@@ -1,2 +1,2 @@
 # akash-demo
-i
+it is my first git repository
